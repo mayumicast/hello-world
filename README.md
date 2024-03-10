@@ -23,6 +23,7 @@ Este projeto é só um repositório de prática em C#.
 - Liste as tecnologias, linguagens e frameworks utilizados no projeto.
 
 ## Como Contribuir
+N/A
 
 - Explique como outros desenvolvedores podem contribuir para o seu projeto.
 
